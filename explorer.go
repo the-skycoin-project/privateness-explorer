@@ -36,8 +36,8 @@ import (
 )
 
 const (
-	defaultExplorerHost = "127.0.0.1:8001"
-	defaultSkycoinAddr  = "http://127.0.0.1:6420"
+	defaultExplorerHost = "127.0.0.1:8002"
+	defaultSkycoinAddr  = "http://127.0.0.1:6460"
 
 	// timeout for requests to the backend skycoin node
 	skycoinRequestTimeout = time.Second * 30
